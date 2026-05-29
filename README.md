@@ -2,7 +2,7 @@
 
 > "Buy high, panic low." — Every beginner trader ever
 
-Hi, I'm **[Your Name]** 👋  
+Hi, I'm Arte 👋  
 Trader, builder, chart destroyer, and occasional liquidity provider to smarter people.
 
 I build:
