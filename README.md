@@ -22,3 +22,134 @@ while market_is_open:
     overthink()
     enter_trade()
     regret()
+````
+
+Experienced in:
+
+* Quant Trading
+* Risk Management
+* Growth Marketing
+* Web3 & Prediction Markets
+* Full Stack Development
+* Emotional Damage
+
+---
+
+## 📉 Current Portfolio Status
+
+| Asset           | Status                  |
+| --------------- | ----------------------- |
+| BTC             | HODLing emotionally     |
+| ETH             | Gas fees own me         |
+| Altcoins        | Character development   |
+| Stablecoins     | Finally stable mentally |
+| Options Trading | Send help               |
+
+---
+
+## ⚙️ Tech Stack
+
+### Trading
+
+* Python
+* CCXT
+* TradingView APIs
+* REST/WebSocket APIs
+* Pandas
+* NumPy
+
+### Development
+
+* Next.js
+* TypeScript
+* Node.js
+* PostgreSQL
+* Docker
+
+### Marketing
+
+* SEO
+* Performance Marketing
+* Analytics
+* Funnel Optimization
+* Meme Strategy
+
+---
+
+## 🚀 Current Projects
+
+### 🤖 POLY-OPT
+
+AI-powered prediction market and hedging platform.
+
+Features:
+
+* Correlation-based trading
+* Automated hedging
+* Risk analysis
+* Position optimization
+* Emotional support not included
+
+---
+
+## 📊 My Trading Strategy
+
+1. Draw random lines on chart
+2. Call it technical analysis
+3. Add Fibonacci
+4. Feel professional
+5. Ignore risk management
+6. Learn risk management
+
+---
+
+## 🔥 Production vs Reality
+
+| Backtest         | Live Trading           |
+| ---------------- | ---------------------- |
+| +347% ROI        | "Connection lost"      |
+| Perfect entries  | Slippage               |
+| Genius           | Humble                 |
+| Statistical edge | Emotional edge missing |
+
+---
+
+## ☕ Trader Survival Kit
+
+Required dependencies:
+
+* Coffee
+* Sleep deprivation
+* Multiple monitors
+* Twitter doomscrolling
+* Hopium
+
+---
+
+## 📈 GitHub Stats
+
+> Most active during market volatility.
+
+```bash
+git commit -m "fixed bug causing financial collapse"
+```
+
+---
+
+## ⚠️ Disclaimer
+
+Nothing here is financial advice.
+
+If my bot loses money:
+
+* It was market manipulation.
+* The Fed changed something.
+* Mercury was in retrograde.
+* The backtest was beautiful though.
+
+---
+
+# 🐂 Stay Bullish
+
+```
+```
