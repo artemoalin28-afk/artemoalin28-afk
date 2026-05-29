@@ -1,30 +1,24 @@
-## Hi there 👋
+# 📈 Welcome to My Trading Lab
 
-## Trading & Marketing Expert | Fintech Builder | Growth Strategist
+> "Buy high, panic low." — Every beginner trader ever
 
-I specialize in:
-- Algorithmic Trading
-- Quantitative Research
-- Fintech Product Development
-- Growth Marketing
-- Trading Automation
-- Market Analytics
-- Blockchain & Web3 Solutions
+Hi, I'm **[Your Name]** 👋  
+Trader, builder, chart destroyer, and occasional liquidity provider to smarter people.
 
-### Tech Stack
-- Python
-- TypeScript
-- Next.js
-- Node.js
-- PostgreSQL
-- Docker
-- REST APIs
-- Trading APIs
-- Data Visualization
+I build:
+- 🤖 Algorithmic trading bots
+- 📊 Market analytics tools
+- ⚡ Trading automation systems
+- 🧠 AI-powered fintech apps
+- 💸 Strategies that work perfectly in backtests
 
-### Current Focus
-- AI-powered trading systems
-- Hedging and risk management tools
-- Prediction market infrastructure
-- Automated trading execution
-- Fintech growth optimization
+---
+
+## 🧠 About Me
+
+```python
+while market_is_open:
+    analyze()
+    overthink()
+    enter_trade()
+    regret()
