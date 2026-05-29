@@ -1,6 +1,6 @@
 # 📈 Welcome to My Trading Lab
 
-> "Buy high, panic low." — Every beginner trader ever
+> Buy high, panic low." — Every beginner trader ever
 
 Hi, I'm Arte 👋  
 Trader, builder, chart destroyer, and occasional liquidity provider to smarter people.
