@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**artemoalin28-afk/artemoalin28-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Trading & Marketing Expert | Fintech Builder | Growth Strategist
 
-Here are some ideas to get you started:
+I specialize in:
+- Algorithmic Trading
+- Quantitative Research
+- Fintech Product Development
+- Growth Marketing
+- Trading Automation
+- Market Analytics
+- Blockchain & Web3 Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python
+- TypeScript
+- Next.js
+- Node.js
+- PostgreSQL
+- Docker
+- REST APIs
+- Trading APIs
+- Data Visualization
+
+### Current Focus
+- AI-powered trading systems
+- Hedging and risk management tools
+- Prediction market infrastructure
+- Automated trading execution
+- Fintech growth optimization
