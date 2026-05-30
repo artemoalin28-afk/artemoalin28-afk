@@ -47,35 +47,6 @@ Experienced in:
 
 ---
 
-## ⚙️ Tech Stack
-
-### Trading
-
-* Python
-* CCXT
-* TradingView APIs
-* REST/WebSocket APIs
-* Pandas
-* NumPy
-
-### Development
-
-* Next.js
-* TypeScript
-* Node.js
-* PostgreSQL
-* Docker
-
-### Marketing
-
-* SEO
-* Performance Marketing
-* Analytics
-* Funnel Optimization
-* Meme Strategy
-
----
-
 ## 🚀 Current Projects
 
 ### 🤖 POLY-OPT
